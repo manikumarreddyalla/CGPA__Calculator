@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Vel Tech Smart CGPA Calculator — Tiny edition
 ===========================================
 
@@ -35,3 +36,6 @@ Notes
 - See `ADSENSE_CHECKLIST.md` before adding ad code or applying for AdSense.
 
 If you want anything changed (smaller file, different grade scale, or a downloadable zip), tell me what to do next.
+=======
+# CGPA__Calculator
+>>>>>>> 8184143590edf78a901aaf332d27024051d3f3ec
